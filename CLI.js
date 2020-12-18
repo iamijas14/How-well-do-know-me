@@ -66,15 +66,6 @@ console.log("______________________");
 console.log();
 console.log(chalk.magentaBright.bold.underline("CHECK OUT THE HIGH SCORES"));
 
-// var ijas = {
-//     name:"ijas",
-//     score:10,
-//   }
-// var sadik = {
-//     name:"sadik",
-//     score:9,
-//   }
-
 var highScores=[
  {
     name:"ijas",
